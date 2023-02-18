@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica;
+}
+
+.banner {
+    text-align: center;
+    font-size: 40px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./pattern.jpeg);
+    height: 100px;
+}
+
+.item h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.item-2 h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.item-3 h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+strong {
+    color: blue;
+}
